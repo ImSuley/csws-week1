@@ -1,2 +1,2 @@
 # csws-week1
-csws-week1 lab1
+Week 1 Lab
